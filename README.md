@@ -46,9 +46,9 @@ First author of two machine learning articles focused on classification and pred
 💻 Intergrated Development Environment: Jupiter-Notebook.
 ## Research Papers
 
-📄"Harmful Videos Classification for Safer Online Social Network." International Conference on Intelligence of Things (ICIT), 2024.
+📄"Harmful Videos Classification for Safer Online Social Network." International Conference on Intelligence of Things (ICIT), 2024. https://link.springer.com/chapter/10.1007/978-3-031-75596-5_7
 
-📄 "Analyze the Influence of Features Extracted from Audios on the Results of IELTS Speaking Test." International Conference on Advanced Technologies for Communications (ATC), 2024.
+📄 "Analyze the Influence of Features Extracted from Audios on the Results of IELTS Speaking Test." International Conference on Advanced Technologies for Communications (ATC), 2024. https://ieeexplore.ieee.org/abstract/document/10908337
 
 
 
