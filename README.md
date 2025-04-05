@@ -43,7 +43,7 @@ First author of two machine learning articles focused on classification and pred
 
 ☁️ Cloud Services: AWS, Google Colaboratory, Kaggle kernel.
 
-💻 Intergrated Development Environment: Jupiter-Notebook.
+💻 Intergrated Development Environment: Jupiter-Notebook, Visual Studio
 ## Research Papers
 
 📄"Harmful Videos Classification for Safer Online Social Network." International Conference on Intelligence of Things (ICIT), 2024. https://link.springer.com/chapter/10.1007/978-3-031-75596-5_7
